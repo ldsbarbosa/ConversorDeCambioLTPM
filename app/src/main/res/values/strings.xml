@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConversorDeCambioLTPM</string>
+    <string name="titulo">App Converte Cambio</string>
+    <string name="titulo_brl">BRL</string>
+    <string name="hint_input_real">Insira o real</string>
+    <string name="hint_input_dolar">Insira o dolar</string>
+    <string name="titulo_usd">USD</string>
+    <string name="resultado">Resultado</string>
+</resources>
